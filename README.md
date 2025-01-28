@@ -51,7 +51,7 @@ The **IoT Smart Air Pollution Monitor** is a real-time air quality monitoring sy
 - **Additional sensors**: Include additional environmental parameters like humidity, temperature, or noise pollution.
 
 ## published 
-This project is
+This project is published and certified by international research journal linked to my linkedin profile "  https://www.linkedin.com/posts/pithal-vaishnavi-88bbb12ba_thrilled-to-share-that-our-team-research-activity-7290027785429905409-WlNm?utm_source=share&utm_medium=member_android "
 ---
 
 
